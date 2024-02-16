@@ -1,0 +1,46 @@
+body{ 
+    background-image: url(../IMAGENES/im.jpeg);
+    background-size: cover;
+    
+  
+   
+}
+h1{
+    background-color: dimgrey;
+    font-size: 50px;
+    font-family: fantasy;
+    border-style: double;
+    border-radius: 25px;
+    border-width: 10px;
+    color: rgb(13, 14, 14);
+}
+h2{
+    background-color: coral;
+    font-family: fantasy;
+    border-style: initial;
+    
+}
+p{
+    font-family: fantasy;
+    word-spacing: 3mm;
+    line-height: 7mm;
+    text-align: justify;
+    
+}
+#div1{
+
+    width: 15cm;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: double;
+    border-color: white;
+    border-width: 0.5mm;
+}
+table{
+    
+    border-color: black;
+    border-style: double;
+}
+
+
+
